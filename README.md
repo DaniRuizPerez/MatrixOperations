@@ -15,11 +15,11 @@ LU decomposition that factors a matrix as the product of a lower triangular matr
 Cholesky decomposition of a profile stored sparse matrix into a lower triangular matrix and its conjugate transpose. Used to solve linear systems of equations. 
 
 ## Power Iteration Method Morse stored
-Implementation of the power method for calculating the eigenvectors and eigenvalues of a matrix stored in morse
+Implementation of the power method for calculating the eigenvectors and eigenvalues of a matrix stored in morse.
 
 ## Tools
 
-The project was developed with Matlab
+The project was developed with Matlab.
 
 
 ## Contact
