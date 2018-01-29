@@ -2,7 +2,7 @@ Numerical Methods for Computer Science
 ============
 
 Collection of Matlab algorithms implemented by me that carry out different matrix operations.
-This was a project for the Numerical Methods for Computer Science course in my senior year of my undergrad in computer science at UDC (Spain).
+This was a project for the Numerical Methods for Computer Science course in my senior year of my BSc in computer science at UDC (Spain).
 
 
 ## Gauss-Seidel Morse stored
